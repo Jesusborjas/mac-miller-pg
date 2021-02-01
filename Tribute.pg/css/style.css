@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  text-align: center;
+}
+
+#title {
+  font-size: 100px;
+  margin: 10px;
+}
+
+body {
+  background-color: lightcoral;
+}
+
+#image {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  font-style: italic;
+  font-size: 30px;
+}
+
+#tribute-info{
+  color: white;
+  margin: 10px;
+
+  text-align: center;
+}
+
+#tribute-link {
+  font-size: 32px;
+  padding: 20px;
+}
+
+p {
+  padding: 20px;
+  font-size: 26px;
+}
